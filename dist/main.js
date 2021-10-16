@@ -1,3 +1,5 @@
+/******/ (() => { // webpackBootstrap
+var __webpack_exports__ = {};
 // import _ from "lodash";
 
 function component() {
@@ -11,3 +13,5 @@ function component() {
   }
   
   document.body.appendChild(component());
+/******/ })()
+;
